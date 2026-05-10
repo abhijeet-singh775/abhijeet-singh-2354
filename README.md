@@ -136,7 +136,6 @@ React • FastAPI • Docker • ML Models • CI/CD
 Features:
 
 * Resume Analysis
-* AI Interview Questions
 * User Dashboard
 * ML Predictions
 * Cloud Deployment
