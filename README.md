@@ -116,7 +116,7 @@ Goal:
 
 ✅ Daily GitHub contributions
 
-🎯 Goal: 300+ DSA Problems
+🎯 Goal:  300 DSA Problems
 
 🎯 Goal: Build production-ready AI apps
 
