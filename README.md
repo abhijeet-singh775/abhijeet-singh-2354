@@ -98,11 +98,7 @@ Goal:
 
 # 📈 Contribution Graph
 
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=16)
-
-</div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=16" /> </div>
 
 ---
 
