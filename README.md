@@ -34,7 +34,11 @@ Goal:
 
 # 🌌 Tech Stack
 
-## 💻 Languages <p align="left">   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" /> </p> --- ## ⚡ Frontend Development <p align="left">   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /> </p> --- ## 🤖 AI • Data Science • MLOps <p align="left">   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,linux" /> </p> --- ## ☁️ Tools & Platforms <p align="left">   <img src="https://skillicons.dev/icons?i=vscode,firebase,aws,vercel,netlify" /> </p> ---
+## 💻 Languages <p align="left">   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" /> </p>
+--- ## ⚡ Frontend Development <p align="left">   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /> </p>
+--- ## 🤖 AI • Data Science • MLOps <p align="left">   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,git,github,linux" /> </p>
+--- ## ☁️ Tools & Platforms <p align="left">   <img src="https://skillicons.dev/icons?i=vscode,firebase,aws,vercel,netlify" /> </p> 
+---
 
 # 📊 GitHub Analytics
 
